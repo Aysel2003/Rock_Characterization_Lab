@@ -1,0 +1,7 @@
+data_dir: data/raw
+processed_dir: data/processed
+
+well_pattern: "well_*.csv"
+
+output_report: outputs/reports/data_quality_report.csv
+output_combined: outputs/tables/combined_well_logs.csv
